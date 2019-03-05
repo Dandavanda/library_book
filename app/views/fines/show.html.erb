@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Date borrower:</strong>
+  <%= @fine.date_borrower %>
+</p>
+
+<p>
+  <strong>Returns:</strong>
+  <%= @fine.returns %>
+</p>
+
+<%= link_to 'Edit', edit_fine_path(@fine) %> |
+<%= link_to 'Back', fines_path %>

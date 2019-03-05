@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  publish: 2019-03-05
+  year: 2019-03-05
+  page: MyString
+
+two:
+  title: MyString
+  publish: 2019-03-05
+  year: 2019-03-05
+  page: MyString
